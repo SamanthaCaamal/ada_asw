@@ -1,0 +1,7 @@
+Nombre del jugador: Lalo /Tiempo total: 00:00 (Minutos:Segundos) /Nivel alcanzado: 2
+Nombre del jugador: Sam /Tiempo total: 54:01 (Minutos:Segundos) /Nivel alcanzado: 5
+Nombre del jugador: Ivan /Tiempo total: 55:02 (Minutos:Segundos) /Nivel alcanzado: 2
+Nombre del jugador: null /Tiempo total: 0:00 (Minutos:Segundos) /Nivel alcanzado: 1
+Nombre del jugador: null /Tiempo total: 79:05 (Minutos:Segundos) /Nivel alcanzado: 3
+Nombre del jugador: Hola /Tiempo total: 79:05 (Minutos:Segundos) /Nivel alcanzado: 3
+Nombre del jugador: null /Tiempo total: 0:00 (Minutos:Segundos) /Nivel alcanzado: 1
